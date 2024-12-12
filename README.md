@@ -1,4 +1,4 @@
-#Programming-C All Practical
+# Programming-C All Practical
 
 - [AryanBhimani] (https://dev-aryanbhimani.pantheonsite.io/)
 - [Linkedin] (https://www.linkedin.com/in/aryanbhimani/)
